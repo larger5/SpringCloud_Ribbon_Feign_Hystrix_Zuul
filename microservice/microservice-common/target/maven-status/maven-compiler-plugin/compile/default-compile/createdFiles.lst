@@ -1,0 +1,4 @@
+com\java1234\service\StudentClientService.class
+com\java1234\service\StudentClientFallbackFactory$1.class
+com\java1234\entity\Student.class
+com\java1234\service\StudentClientFallbackFactory.class
